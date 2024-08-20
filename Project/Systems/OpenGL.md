@@ -5,9 +5,9 @@
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Learn/Learn_Home.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Changes/Changes_Home.md
 
-[Page DesignLayout ThirdPartyWrapSys]:link
-[Page DesignLayout RealmsOOP]:link
-[Page DesignLayout ThirdPartyWrap]:link
+[Page DesignLayout ThirdPartyWrapSys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/ThirdPartyWrapperSys_DL.md
+[Page DesignLayout RealmsOOP]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/RealmsOOP_DL.md
+[Page DesignLayout ThirdPartyWrap]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/ThirdPartyWrapper_DL.md
 
 [Page OpenGl]:https://www.opengl.org
 
