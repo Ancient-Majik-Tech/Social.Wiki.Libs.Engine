@@ -33,7 +33,7 @@ Welcome to the main page for the [Realms Tutorial Collections][Page Learn.Tutori
 
 ### Welcome
 
-Welcome to Realms Engine, our custom application engine. While most engines are designed to be used only for game engines. We are building our engine to provide a dynamic way of handling both tool applications or game applications using the same basic core features built ontop of [Realms Core][Page Libs.Core] library and wrapped around Open GL, and SDL2. With long term goals of supporting Open AL to allow the sound system to support sound .
+Welcome to Realms Engine, our custom application engine. While most engines are designed to be used only for game engines. We are building our engine to provide a dynamic way of handling both tool applications or game applications using the same basic core features built ontop of [Realms Core][Page Libs.Core] library and wrapped around Open GL, and SDL2. With long term goals of supporting Open AL to allow the sound system to support sound to be more natural and dynamic.
 
 Please note that Realms Engine is very early in development but soon will explode in development as we bring [Realms Core][Page Libs.Core] into a working state as it was originally developed as part of prototypes. We have rebuilt the underlying prototypes into the Realms Core Project.
 
