@@ -1,11 +1,11 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Learn/Learn_Home.md
 
-[Page Home]:link
-[Page Project Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Project_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Changes/Changes_Home.md
 
-[Sec Welcome]:link
-[Sec Tuts]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Learn/Learn_Home.md#welcome
+[Sec Tuts]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Learn/Learn_Home.md#tutorials
 
 # Realms Tutorial Collection: "Realms Engine" - Learn
 

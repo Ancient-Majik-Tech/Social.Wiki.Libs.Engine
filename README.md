@@ -1,16 +1,16 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/tree/main
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md
 
-[Page Learn.Tutorial.Home]:link
-[Page Libs.Core]:link
+[Page Learn.Tutorial.Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/README.md
+[Page Libs.Core]:https://github.com/Ancient-Majik-Tech/Lib.C.Core.Wiki/blob/main/README.md
 
-[Page Project Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Project_Home.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Changes/Changes_Home.md
 
-[Sec Welcome]:link
-[Sec Details]:link
-[Sec Feat Added]:link
-[Sec Feat Planned]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md#welcome
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md@tech-details
+[Sec Feat Added]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md#key-implimented-features
+[Sec Feat Planned]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md#key-planned-features
 
 # Realms Tutorial Collections: "Realms Engine"
 

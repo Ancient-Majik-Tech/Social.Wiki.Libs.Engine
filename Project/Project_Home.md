@@ -1,19 +1,19 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Project_Home.md
 
-[Page Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
-[Page Roadmap Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Changes/Changes_Home.md
+[Page Roadmap Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Roadmap.md
 
-[Sec Standards]:link
-[Sec Details]:link
-[Sec Layout]:link
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Project_Home.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Project_Home.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Project_Home.md#system-layout
 
-[Page learn.Tutorial.Libs.Engine]:link
+[Page learn.Tutorial.Libs.Engine]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/TutCollect/TutCollect_Home.md
 
-[Sys LibHost]:link
-[Sys OpenGl]:link
-[Sys SDL]:link
+[Sys LibHost]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Systems/LibHost.md
+[Sys OpenGl]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Systems/OpenGL.md
+[Sys SDL]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Systems/SDL.md
 
 # Realms Tutorial Collections: "Realms Engine"
 

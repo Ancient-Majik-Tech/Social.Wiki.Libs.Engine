@@ -1,25 +1,25 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Systems/SDL.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/README.md
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Project_Home.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Learn/Learn_Home.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Changes/Changes_Home.md
 
-[Page DesignLayout ThirdPartyWrapSys]:link
-[Page DesignLayout RealmsOOP]:link
-[Page DesignLayout ThirdPartyWrap]:link
-[Page SDL]:link
+[Page DesignLayout ThirdPartyWrapSys]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/ThirdPartyWrapperSys_DL.md
+[Page DesignLayout RealmsOOP]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/RealmsOOP_DL.md
+[Page DesignLayout ThirdPartyWrap]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Coding/ThirdPartyWrapper_DL.md
+[Page SDL]:https://www.libsdl.org
 
-[Sec Welcome]:link
-[Sec Details]:link
-[Sec Features]:link
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Systems/SDL.md#welcome
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Systems/SDL.md#system-details
+[Sec Features]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Project/Systems/SDL.md#features
 
 # Realms Tutorial Collections: "Realms Engine" - Systems - SDL Wrap System
 
 ## Site Index
 
 - [Home][Page Home]
-	- [Project][Page Proj Home]
+	- [Project][Page Project Home]
 		- Library Host System (You are here)
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
