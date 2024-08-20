@@ -1,4 +1,4 @@
-[Page]:link
+[Page]:[link](https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md)
 
 [Page Home]:link
 [Page Proj Home]:link
@@ -17,9 +17,9 @@
 [Sec Fixes]:[page]#fixes
 
 
-# Realms Tutorial Collections: "[Project Name]" [ Changes - [version] ]
+# Realms Tutorial Collections: "Realms Engine" [ Changes - V D 0.0.4.0 ]
 
-Welcome for the Update page for [version] here you can learn about what happened in this release.
+Welcome for the Update page for V D 0.0.4.0 here you can learn about what happened in this release.
 
 ## Site Index
 
@@ -27,7 +27,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 	- [Project][Page Proj Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
-		- [version] (You are here)
+		- V D 0.0.4.0 (You are here)
 
 ## Page Index
 
@@ -45,7 +45,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 
 This section covers the details of this update including if it is the currently active update.
 
-[Update]
+This Update was focused on bringing up the start of a foundation of working with open gl.
 
 - Data
 	- [Previous][Page Change Previous]

@@ -1,4 +1,4 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Libs.Engine/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
 
 [Page Home]:link
 [Page Proj Home]:link
@@ -86,7 +86,7 @@ The following is a list of the systems that had changes applied to them includin
 - Updated Systems
 	- [Internal SDL Wrap][Sys SDL]
 		- Features
-			- [SDL Window Wrapping][Sys SDL Feat Windows]
+			- [SDL Window Wrap][Sys SDL Feat Windows]
 			- [SDL OpenGl Content Wrap][Sys SDL Feat GlContex]
 
 ### Content
